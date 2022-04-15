@@ -11,6 +11,7 @@ Plug 'tpope/vim-fugitive'
 Plug 'mhinz/vim-signify'
 Plug 'junegunn/fzf.vim'
 Plug 'tpope/vim-abolish'
+Plug 'tpope/vim-surround'
 
 " Project Management
 Plug 'amiorin/vim-project'
