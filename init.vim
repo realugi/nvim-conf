@@ -38,3 +38,6 @@ set shiftround
 " relative / hybrid line number switch
 set number relativenumber
 
+" use system register (exclude selection register when using linux)
+set clipboard=unnamedplus
+
