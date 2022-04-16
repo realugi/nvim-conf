@@ -8,10 +8,9 @@ Plug 'itchyny/lightline.vim'
 Plug 'tpope/vim-commentary'
 Plug 'tpope/vim-abolish'
 Plug 'tpope/vim-fugitive'
+Plug 'tpope/vim-surround'
 Plug 'mhinz/vim-signify'
 Plug 'junegunn/fzf.vim'
-Plug 'tpope/vim-abolish'
-Plug 'tpope/vim-surround'
 
 " Project Management
 Plug 'amiorin/vim-project'
